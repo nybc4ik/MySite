@@ -1,0 +1,13 @@
+body {
+	font-family: Arial;
+	font-size: 14px;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.weather-widget-container {
+    margin: 30px 0;
+}
